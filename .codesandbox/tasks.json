@@ -18,10 +18,6 @@
       "name": "yarn install",
       "command": "yarn install"
     },
-    "yarn update": {
-      "name": "yarn update",
-      "command": "yarn update"
-    },
     "yarn upgrade": {
       "name": "yarn upgrade",
       "command": "yarn upgrade"
